@@ -1,4 +1,8 @@
-#map {
+/* #map {
     height: 400px;
     width: 400px;
+} */
+
+canvas {
+    border: black 1px solid;
 }
